@@ -1,8 +1,8 @@
-I have a pet ______ (noun) named Charles.
+I have a pet monkey (noun) named Charles.
 
-He is very ______ (adjective).
+He is very unstable (adjective).
 
-I feed him organic, locally sourced ______ (noun).
+I feed him organic, locally sourced carrots (noun).
 
 He is only about the size of my ______ (noun).
 
@@ -10,9 +10,9 @@ I named him after my favorite author (noun).
 
 --- new extra teammates lines ---
 
-My neighbors say he has a very ______ (adjective) personality.
+My neighbors say he has a very funny (adjective) personality.
 
-Sometimes he sleeps inside an old ______ (noun).
+Sometimes he sleeps inside an old __cave__ (noun).
 
 His favorite thing in the world is chasing ______ (plural noun).
 
