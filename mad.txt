@@ -2,18 +2,18 @@ I have a pet monkey (noun) named Charles.
 
 He is very unstable (adjective).
 
-I feed him organic, locally sourced bananas (noun).
+I feed him organic, locally sourced ______ (noun).
 
-He is only about the size of my backpack (noun).
+He is only about the size of my ______ (noun).
 
-I named him after my favorite pirate (noun).
+I named him after my favorite ______ (noun).
 
---- new extra teammates lines ---
+--- new extra teammates lines ---  
 
-My neighbors say he has a very chaotic (adjective) personality.
+My neighbors say he has a very funny (adjective) personality.
 
-Sometimes he sleeps inside an old suitcase (noun).
+Sometimes he sleeps inside an old __cave__ (noun).
 
-His favorite thing in the world is chasing squirrels (plural noun).
+His favorite thing in the world is chasing tiny monkeys (plural noun).
 
 Every morning, he makes the strangest trumpet (noun) sound.
